@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52264" started-at="2015-09-13T03:50:32Z" finished-at="2015-09-13T03:51:25Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52264" started-at="2015-09-13T03:50:32Z" finished-at="2015-09-13T03:51:25Z">
+      <class name="com.acttime.projectandcusttest.ProjectAndCustomerTest">
+        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="configBeforeClass" is-config="true" duration-ms="8161" started-at="2015-09-13T09:20:32Z" finished-at="2015-09-13T09:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method status="PASS" signature="configBeforeMtd()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="configBeforeMtd" is-config="true" duration-ms="2277" started-at="2015-09-13T09:20:40Z" finished-at="2015-09-13T09:20:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMtd -->
+        <test-method status="PASS" signature="createCustomerTest()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="createCustomerTest" duration-ms="9510" started-at="2015-09-13T09:20:43Z" finished-at="2015-09-13T09:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="configAfterMtd" is-config="true" duration-ms="421" started-at="2015-09-13T09:20:52Z" finished-at="2015-09-13T09:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="configBeforeMtd()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="configBeforeMtd" is-config="true" duration-ms="2824" started-at="2015-09-13T09:20:53Z" finished-at="2015-09-13T09:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMtd -->
+        <test-method status="PASS" signature="modifyCustomerTest()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="modifyCustomerTest" duration-ms="12745" started-at="2015-09-13T09:20:55Z" finished-at="2015-09-13T09:21:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyCustomerTest -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="configAfterMtd" is-config="true" duration-ms="437" started-at="2015-09-13T09:21:08Z" finished-at="2015-09-13T09:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.acttime.projectandcusttest.ProjectAndCustomerTest@fdd15b]" name="configAfterClass" is-config="true" duration-ms="499" started-at="2015-09-13T09:21:09Z" finished-at="2015-09-13T09:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterClass -->
+      </class> <!-- com.acttime.projectandcusttest.ProjectAndCustomerTest -->
+      <class name="com.actitime.reporttest.ReportTest">
+        <test-method status="PASS" signature="configBeforeClass()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="configBeforeClass" is-config="true" duration-ms="7444" started-at="2015-09-13T09:21:09Z" finished-at="2015-09-13T09:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method status="PASS" signature="configBeforeMtd()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="configBeforeMtd" is-config="true" duration-ms="2012" started-at="2015-09-13T09:21:17Z" finished-at="2015-09-13T09:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMtd -->
+        <test-method status="PASS" signature="createReportTest()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="createReportTest" duration-ms="0" started-at="2015-09-13T09:21:19Z" finished-at="2015-09-13T09:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReportTest -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="configAfterMtd" is-config="true" duration-ms="2074" started-at="2015-09-13T09:21:19Z" finished-at="2015-09-13T09:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="configBeforeMtd()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="configBeforeMtd" is-config="true" duration-ms="1546" started-at="2015-09-13T09:21:21Z" finished-at="2015-09-13T09:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMtd -->
+        <test-method status="PASS" signature="modifyReportTest()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="modifyReportTest" duration-ms="0" started-at="2015-09-13T09:21:22Z" finished-at="2015-09-13T09:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyReportTest -->
+        <test-method status="PASS" signature="configAfterMtd()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="configAfterMtd" is-config="true" duration-ms="1710" started-at="2015-09-13T09:21:22Z" finished-at="2015-09-13T09:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMtd -->
+        <test-method status="PASS" signature="configAfterClass()[pri:0, instance:com.actitime.reporttest.ReportTest@13d285f]" name="configAfterClass" is-config="true" duration-ms="586" started-at="2015-09-13T09:21:24Z" finished-at="2015-09-13T09:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterClass -->
+      </class> <!-- com.actitime.reporttest.ReportTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
